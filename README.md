@@ -25,7 +25,7 @@ Clone this repository to your local machine using your terminal:
 git clone [https://github.com/bastanisl/owproject.git](https://github.com/bastanisl/owproject.git)
 cd owproject
 
-2. Install Dependencies
+# **2. Install Dependencies
 
 Ensure you have Jupyter installed, then install the required Python libraries:
 pip install -r requirements.txt
