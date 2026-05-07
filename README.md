@@ -1,3 +1,4 @@
+Markdown
 # C. elegans Protein Extraction Pipeline 🪱
 
 **A DevoWorm / OpenWorm Studentship Project**
@@ -22,17 +23,19 @@ It allows researchers to rapidly pull homolog data, sequence alignments, and e-v
 ### 1. Clone the Repository
 Clone this repository to your local machine using your terminal:
 ```bash
-git clone [https://github.com/bastanisl/owproject.git](https://github.com/bastanisl/owproject.git)
+git clone https://github.com/bastanisl/owproject.git
 cd owproject
-
-# **2. Install Dependencies
+2. Install Dependencies
 
 Ensure you have Jupyter installed, then install the required Python libraries:
-pip install -r requirements.txt
 
+Bash
+pip install -r requirements.txt
 3. Run the Notebook
 
 Launch Jupyter:
+
+Bash
 jupyter lab
 Open DevoWorm_Protein_Pipeline.ipynb and run the cells sequentially. The notebook includes extensive Markdown explaining how to modify the protein targets and how to parse the resulting JSON data.
 
@@ -48,4 +51,4 @@ Sequence identity and alignment lengths.
 This data can be directly integrated into downstream systems biology models to bridge theoretical lineage waves with actual genomic sequence data.
 
 👨‍🔬 Author
-Suroush Bastani Developed as part of the OpenWorm Foundation Studentship.
+Suroush Bastani | Developed as part of the OpenWorm Foundation Studentship.
